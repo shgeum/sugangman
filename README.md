@@ -7,10 +7,12 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 탬퍼몽키 설치 후 아래 링크 클릭하셔서 탬퍼몽키에 유저 스크립트를 설치합니다
 https://raw.githubusercontent.com/shgeum/sugangman/main/sugangman.user.js
 
+
 ---
 # 사용법
 
 F8 - 확인버튼
+
 F9 - 취소버튼 ( 취소버튼이 없을 시 자동으로 확인버튼 누름 )
 
 절대 빨리 누르지 마세요 너무 빨리 누를시 작동하지 않을 수 있습니다. 침착하게 눌러주세요 
