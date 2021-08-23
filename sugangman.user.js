@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  F8 - 확인 F9 - 취소, 너무 빨리 누를 시 동작안할 수 있음. 사용시 모두 본인책임
 // @author       0xc0de
-// @match        https://sjpt.sejong.ac.kr/
+// @match        https://sjpt.sejong.ac.kr/*
 // @icon         https://www.google.com/s2/favicons?domain=ac.kr
 // @grant        none
 // ==/UserScript==
